@@ -1,6 +1,6 @@
 {
 	"icon": "http://i.imgur.com/3bkaq1I.gif",
-	"forum": "",
+	"forum": "https://forums.uberent.com/threads/rel-client-nukes-rainbow-hearts.68558/",
     "enabled" : true,
     "context" : "client",
     "identifier" : "com.pa.domdom.rainbow.heart.nuke",
