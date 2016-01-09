@@ -1,15 +1,14 @@
 {
 	"icon": "http://i.imgur.com/3bkaq1I.gif",
 	"forum": "https://forums.uberent.com/threads/rel-client-nukes-rainbow-hearts.68558/",
-    "enabled" : true,
     "context" : "client",
     "identifier" : "com.pa.domdom.rainbow.heart.nuke",
     "display_name" : "Nukes: Rainbow Hearts",
     "description" : "Share some warmth with your frenemies through the power of thermonuclear love and rainbows.",
     "author" : "dom314",
-    "version" : "1.0.0",
-	"build": "80187",
-    "date": "2015/04/13",
-    "category": ["ui", "effects"],
+    "version" : "1.0.1",
+    "build": "89755",
+    "date": "2016/01/09",
+    "category": ["in-game", "effects", "hearts"],
     "priority": 100
 }
