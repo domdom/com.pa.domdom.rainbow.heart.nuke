@@ -6,9 +6,10 @@
     "display_name" : "Nukes: Rainbow Hearts",
     "description" : "Share some warmth with your frenemies through the power of thermonuclear love and rainbows.",
     "author" : "dom314",
+    "signature": " ",
     "version" : "1.0.1",
     "build": "89755",
-    "date": "2016/01/09",
-    "category": ["in-game", "effects", "hearts"],
+    "date": "2018-05-09",
+    "category": ["gameplay", "effects", "hearts"],
     "priority": 100
 }
